@@ -1,4 +1,3 @@
-```
 #include<iostream>
 #include<stdio.h>
 #include<string.h>
@@ -27,4 +26,4 @@ string encrypt(string str) {
     }
     return str;
 }
-```
+
