@@ -1,1 +1,2 @@
-ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz_1234567890ZYXWVUTSRQPONMLKJIHGFEDCBA_zyxwvutsrqponmlkjihgfedcba !@#$%^&*()
+ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz1234567890 !@#$%^&*()<>?/,.
+ZYXWVUTSRQPONMLKJIHGFEDCBA zyxwvutsrqponmlkjihgfedcba!@#$%^&*()_1234567890,./?<>
