@@ -1,8 +1,3 @@
-/***************************************************/
-/* Go, Janneil Janzen R.                           */
-/* Grade 9- Galileo                                */
-/* Final Project in Computer Science 9- ENCRYPTION */
-/***************************************************/
 #include<iostream>
 #include<stdio.h>
 #include<cstdio>
